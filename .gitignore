@@ -1,0 +1,16 @@
+#Ignore server software and libraries
+*.jar
+libraries/
+cache/
+.paper-remapped/
+
+#Ignore map saves and dynamically generated files
+world/
+world_nether/
+world_the_end/
+
+#Ignore logs and crash reports
+logs/
+crash-reports/
+
+
